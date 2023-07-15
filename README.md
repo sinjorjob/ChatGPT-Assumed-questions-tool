@@ -15,3 +15,7 @@ python Chatbot.py
 ## Set API Key
 
 TOP画面右側の[基本設定]でOpenAIのAPIキーをセットしてください。  
+
+## sample ppt file
+
+ビジネス計画書.pptx
